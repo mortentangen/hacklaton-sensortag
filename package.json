@@ -9,6 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
+  	"start": "sudo node run.js",
     "test": "node discover.js"
   },
   "repository": {
