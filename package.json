@@ -1,0 +1,29 @@
+{
+  "name": "hacklaton-sensortag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "dependencies": {
+    "sensortag": "1.2.0",
+    "express": "4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node discover.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortentangen/hacklaton-sensortag.git"
+  },
+  "keywords": [
+    "lightbulb",
+    "sensortag",
+    "smartlink"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mortentangen/hacklaton-sensortag/issues"
+  },
+  "homepage": "https://github.com/mortentangen/hacklaton-sensortag#readme"
+}
